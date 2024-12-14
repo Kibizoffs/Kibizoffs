@@ -12,6 +12,7 @@
 
 <h3>Social:</br></h3>
 <a href="https://t.me/auraxite"><img src="/media/telegram.svg"></a><a href="https://www.instagram.com/auraxite"><img src="/media/instagram.svg"></a>
+<hr>
 
 <a href="https://github.com/Kibizoffs/Kibizoffs"><img src="https://github-readme-stats.vercel.app/api?username=kibizoffs&theme=tokyonight&hide=commits,contribs&show_icons=true&custom_title=Kibizoffs&nbsp;GitHub&nbsp;stats"></a>
 <hr>
