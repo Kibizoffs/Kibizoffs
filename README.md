@@ -1,6 +1,7 @@
 <h1>Welcome to 
     <a href="https://kibizoffs.com" style="text-decoration: none; color: #00beff;">Kibizoffs</a>
     <a href="https://kibizoffs.com"><img src="/media/kibizoffs.png" align="center" style="width: 48px; height: 48px"></a></h1>
+    
 <h3>About me:</br></h3>
 <ul>
     <li>My name is Kirill Kibizov
@@ -8,10 +9,9 @@
     <li>I study at Moscow State University (Faculty of Computational Mathematics and Cybernetics)
 </ul>
 <hr>
-<h3>Social:</br></h3>
 
-<a href="https://discord.gg/VVk8CaR"><img src="/media/discord.svg"></a><a href="https://www.instagram.com/auraxite"><img src="/media/instagram.svg"></a><a href="https://t.me/auraxite"><img src="/media/telegram.svg"></a><a href="https://www.reddit.com/r/Kibizoffs"><img src="/media/reddit.svg"></a><a href="https://www.youtube.com/kibizoffs"><img src="/media/youtube.svg"></a><a href="https://github.com/Kibizoffs"><img src="/media/github.svg"></a>
-<hr>
+<h3>Social:</br></h3>
+<a href="https://t.me/auraxite"><img src="/media/telegram.svg"></a><a href="https://www.instagram.com/auraxite"><img src="/media/instagram.svg"></a>
 
 <a href="https://github.com/Kibizoffs/Kibizoffs"><img src="https://github-readme-stats.vercel.app/api?username=kibizoffs&theme=tokyonight&hide=commits,contribs&show_icons=true&custom_title=Kibizoffs&nbsp;GitHub&nbsp;stats"></a>
 <hr>
